@@ -1,250 +1,357 @@
-# 👋 Hi, I'm Deepthi Mamidi
-
 <div align="center">
 
-### 🚀 Software Test Engineer | QA Automation | Playwright | Selenium | API Testing | AI Testing
+# Hi 👋, I'm **Mamidi Deepthi**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Test+Engineer;QA+Automation+Engineer;Playwright+%7C+Selenium+Expert;API+Testing+%7C+Appium;AI-Powered+Quality+Engineering" />
+### 🚀 Senior QA Automation Engineer | Playwright | Selenium | API Testing | Mobile Automation | AI-Powered Testing
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=QA+Automation+Engineer;Playwright+%7C+Selenium+Expert;API+%7C+Mobile+Automation;AI+Powered+Quality+Engineering;Always+Learning+%F0%9F%9A%80" />
+
+<p align="center">
+
+Building reliable software through intelligent automation, scalable frameworks, and modern Quality Engineering.
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I am a Software Test Engineer with **7+ years of professional experience**, including **5+ years of specialized experience in Software Testing**, delivering high-quality web, mobile, and API applications.
+💙 Senior QA Automation Engineer with **7+ years of IT experience** including **5+ years in Software Testing**
 
-I specialize in:
+🔹 Expertise in
 
-- ✅ Manual Testing
-- ✅ Automation Testing
-- ✅ API Testing
-- ✅ Mobile Testing
-- ✅ AI-Powered Testing
-- ✅ Playwright Automation
-- ✅ Selenium Automation
-- ✅ CI/CD Testing
-- ✅ Agile Methodologies
+- Automation Testing
+- Manual Testing
+- API Testing
+- Mobile Testing
+- AI Testing
+- Playwright Automation
+- Selenium Framework Development
 
-I enjoy building scalable automation frameworks, improving software quality, and leveraging AI to make testing smarter and faster.
+🔹 Experienced in
 
----
+- Web Applications
+- Mobile Applications
+- Healthcare Domain
+- Insurance Domain
+- Enterprise Applications
 
-# 💼 Professional Expertise
+🔹 Passionate about
 
-- Automation Framework Design
-- Playwright with JavaScript
-- Selenium WebDriver with Java
-- API Automation
-- REST Assured
-- Postman
-- Mobile Automation using Appium
-- Cross Browser Testing
-- Cross Platform Testing
-- Regression Testing
-- Smoke Testing
-- Sanity Testing
-- Integration Testing
-- Functional Testing
-- End-to-End Testing
-- AI Test Automation
-- Prompt Validation
-- LLM Testing
-- Agentic AI Testing
-- RAG Validation
+- AI-powered Quality Engineering
+- Test Automation Framework Design
+- Shift Left Testing
 - CI/CD Automation
-- Jenkins
-- Git
-- Maven
-- SQL
+- Continuous Testing
+- Agentic AI Testing
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+## Programming
 
-- Java
-- JavaScript
-- SQL
+<p>
 
-### Automation
+<img src="https://skillicons.dev/icons?i=java,javascript"/>
+
+</p>
+
+---
+
+## Automation
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=selenium"/>
+
+<img src="https://playwright.dev/img/playwright-logo.svg" width="48"/>
+
+</p>
 
 - Selenium WebDriver
 - Playwright
-- Appium
 - TestNG
 - Cucumber
-
-### API
-
-- Postman
-- REST Assured
-
-### CI/CD
-
-- Jenkins
-- Maven
-- Git
-
-### Project Management
-
-- Jira
-- Azure Boards
-- TFS
-- Mantis
-
-### Cloud
-
-- Azure
-- AWS
-
-### Monitoring
-
-- Dynatrace
-- AppDynamics
-- Grafana
-- AWS CloudWatch
-- Azure Monitor
+- Hybrid Framework
+- Page Object Model (POM)
 
 ---
 
-# 🤖 AI Testing Skills
+## API Testing
 
-- Prompt Engineering Testing
-- LLM Validation
-- AI Hallucination Detection
-- Agentic AI Workflow Testing
-- AI Response Validation
-- Context & Memory Testing
-- RAG Testing
-- Autonomous Test Execution
-- AI-based Test Case Generation
-- Self-Healing Automation
+- REST Assured
+- Postman
+- JSON Validation
+- API Automation
+- Schema Validation
+
+---
+
+## Mobile Testing
+
+- Appium
+- Android
+- iOS
+- BrowserStack
+- Emulator
+- Simulator
+
+---
+
+## CI/CD & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,maven"/>
+
+</p>
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+- SQL
+- SQL Server
+
+---
+
+## Cloud & Monitoring
+
+- Azure
+- AWS
+- Azure DevOps
+- AWS CloudWatch
+- Grafana
+- Dynatrace
+- AppDynamics
+
+---
+
+# 🤖 AI Testing Expertise
+
+✔ AI-powered Test Automation
+
+✔ Prompt Validation
+
+✔ Agentic AI Testing
+
+✔ LLM Response Validation
+
+✔ Hallucination Detection
+
+✔ RAG Testing
+
+✔ Context Validation
+
+✔ Memory Testing
+
+✔ Workflow Validation
+
+✔ AI Regression Testing
+
+✔ Autonomous Test Execution
+
+✔ AI Failure Analysis
+
+---
+
+# 🛠 Core Testing Skills
+
+- Functional Testing
+- Smoke Testing
+- Sanity Testing
+- Regression Testing
+- Integration Testing
+- System Testing
+- End-to-End Testing
+- Cross Browser Testing
+- Mobile Testing
+- API Testing
+- Database Testing
+- Performance Monitoring
+- UAT Support
 
 ---
 
 # 📂 Featured Projects
 
-## 🏥 Revenue Cycle Management (Healthcare)
+## 🏥 Revenue Cycle Management (RCM)
+
+**Healthcare Domain**
 
 **Client:** Ascension Health
 
-**Tech Stack**
+### Tech
 
 - Playwright
 - JavaScript
-- API Testing
-- Jenkins
+- REST API
 - Azure DevOps
+- Jenkins
 
-Highlights
+### Highlights
 
-- Built Playwright automation framework
-- Implemented Page Object Model
-- API Testing
-- Cross Browser Testing
-- Parallel Execution
-- HTML & Allure Reports
+✅ Built scalable Playwright framework
+
+✅ Parallel Execution
+
+✅ API Validation
+
+✅ Cross Browser Testing
+
+✅ CI/CD Integration
 
 ---
 
-## 🏥 Claims Processing System
+## 💳 Claims Processing System
+
+**Healthcare Insurance**
 
 **Client:** Cigna
 
-**Highlights**
+### Highlights
 
 - End-to-End Automation
-- REST API Validation
-- Playwright Automation
-- CI/CD Integration
-- Cross Browser Execution
+- REST API Testing
+- Page Object Model
+- HTML Reports
+- Allure Reports
 
 ---
 
-## 🏥 Medical Insurance Platform
+## 🏥 TriMedx Medical Insurance Platform
 
-**Client:** CVS Caremark
-
-**Technology**
+### Tech
 
 - Selenium
 - Java
 - Appium
-
-Highlights
-
-- Selenium Framework
-- Mobile Automation
-- Regression Testing
-- Cross Platform Testing
+- SQL
 
 ---
 
-## 📱 SACWIS Mobile Automation
+## 📱 SACWIS
 
-- Android Automation
-- iOS Automation
-- Appium Framework
-- Device Farm Testing
-- BrowserStack
+Government Child Welfare Platform
+
+- Mobile Automation
+- Android
+- iOS
+- Appium
+- Device Farm
 
 ---
 
 ## 🌐 Labour Planning System
 
-Highlights
+Insurance Domain
 
-- REST API Testing
 - REST Assured
-- API Automation
-- HTTP Validation
-- JSON Validation
+- API Testing
+- SQL
+- Automation Framework
 
 ---
 
-# 🏆 Achievements
+# 📈 GitHub Stats
 
-🏅 Spot Team Award – 2025
+<p align="center">
 
-🏅 Best Employee Award – 2022
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 📈 Currently Learning
+# 📊 Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
 
 - Advanced Playwright
 - AI Testing
-- Azure AI
-- GitHub Actions
-- Agentic AI Testing
+- Agentic AI
 - LLM Evaluation
+- Prompt Engineering
+- Azure DevOps Pipelines
+- Kubernetes for Test Automation
 
 ---
 
-# 📊 GitHub Stats
+# 💼 Professional Strengths
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+✔ Automation Framework Design
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+✔ Test Strategy
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+✔ Agile Scrum
+
+✔ Test Planning
+
+✔ Defect Lifecycle
+
+✔ Requirement Analysis
+
+✔ Root Cause Analysis
+
+✔ Quality Engineering
+
+✔ Leadership
+
+✔ Team Collaboration
 
 ---
 
-# 📫 Connect with Me
+# 📫 Connect With Me
 
-📧 Email: Deepthymamidi@gmail.com
+<p>
 
-🌐 Portfolio: Coming Soon
+📧 **Email:** Deepthymamidi@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN
+
+🐙 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+
+</p>
 
 ---
 
-## 💡 Quote
+<div align="center">
 
-> "Quality is never an accident; it is always the result of intelligent effort."
+## ⭐ "Quality is never an accident. It is always the result of intelligent effort."
 
----
+### Thanks for visiting my profile!
 
-⭐ Thanks for visiting my profile!
+⭐ If you like my work, consider giving a star to my repositories.
+
+</div>
